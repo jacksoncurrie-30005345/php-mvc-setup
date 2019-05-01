@@ -1,0 +1,16 @@
+# GET http://localhost:8000/api/show
+
+###
+
+# GET http://localhost:8000/api/single/3
+
+###
+
+# POST http://localhost:8000/api/add
+# content-type: application/json
+
+# {
+#     "fname" : "Jeff",
+#     "lname" : "Kranenburg",
+#     "dob" : "1982-10-23"
+# }
